@@ -21,4 +21,3 @@ To play a Forge modded server, your client must also have the Forge package inst
 Well, if you read to the bottom of this file, then you just did!
 
 Now, your next step might be to install forge on your client, or to download this project and launch your own Forge server.  Be sure to configure your mod(s) selection and config file to your preference.
-
