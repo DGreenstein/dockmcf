@@ -6,15 +6,15 @@ Minecraft Forge is a mod framework, which makes building Minecraft modifications
 
 ### Minecraft Resources
 
-To learn more about Minecraft, or to download it, visit the official [Minecraft website] (https://minecraft.net).
+To learn more about Minecraft, or to download it, visit the official [Minecraft website](https://minecraft.net).
 
 ### Forge
 
-You can get more information about Minecraft Forge from their [official website] (https://files.minecraftforge.net/).
+You can get more information about Minecraft Forge from their [official website](https://files.minecraftforge.net/).
 
-Visit the [Forge documentation site] (http://mcforge.readthedocs.io/en/latest/) to learn more about how to manage and run a Forge server, or to use the Forge client.  
+Visit the [Forge documentation site](http://mcforge.readthedocs.io/en/latest/) to learn more about how to manage and run a Forge server, or to use the Forge client.  
 
-To play a Forge modded server, your client must also have the Forge package installed.  Good information can be found on the README of the [Forge project] (https://github.com/MinecraftForge/MinecraftForge/blob/1.12.x/README.md).
+To play a Forge modded server, your client must also have the Forge package installed.  Good information can be found on the README of the [Forge project](https://github.com/MinecraftForge/MinecraftForge/blob/1.12.x/README.md).
 
 ### Geting Started
 
